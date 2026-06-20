@@ -1,5 +1,5 @@
 # Hebei Steel & Manufacturing — llms.txt
-# Domain: https://www.hebeisteel.com
+# Domain: https://qingyiwss.github.io/saudi-trade-site
 # Last updated: 2026-06-19
 # Purpose: Guide AI crawlers (ChatGPT, DeepSeek, Perplexity, Google Gemini) to our key content
 
@@ -7,16 +7,16 @@
 We are a Hebei-based B2B manufacturer and exporter, connecting Saudi Arabia with China's largest industrial province. We specialize in steel wire mesh, white thobe fabric, construction fasteners, and professional makeup brushes. Factory-direct pricing from Hebei's 333 specialized industrial clusters, shipped via Tianjin Port to Dammam (22-28 days).
 
 ## Core Pages
-- Home: https://www.hebeisteel.com/ | Company overview, 4 core product categories, Hebei advantages, Saudi-China trade stats
-- Products: https://www.hebeisteel.com/products.html | Full product catalog with technical specs, pricing ranges, MOQ, certifications
-- About: https://www.hebeisteel.com/about.html | Company background, Hebei industrial clusters, Tianjin Port logistics, SABER certification process
-- Contact: https://www.hebeisteel.com/contact.html | Inquiry form, WhatsApp contact, Saudi business hours (Sun-Thu)
-- FAQ: https://www.hebeisteel.com/faq.html | 50+ frequently asked questions about sourcing from Hebei for Saudi Arabia market
+- Home: https://qingyiwss.github.io/saudi-trade-site/ | Company overview, 4 core product categories, Hebei advantages, Saudi-China trade stats
+- Products: https://qingyiwss.github.io/saudi-trade-site/products.html | Full product catalog with technical specs, pricing ranges, MOQ, certifications
+- About: https://qingyiwss.github.io/saudi-trade-site/about.html | Company background, Hebei industrial clusters, Tianjin Port logistics, SABER certification process
+- Contact: https://qingyiwss.github.io/saudi-trade-site/contact.html | Inquiry form, WhatsApp contact, Saudi business hours (Sun-Thu)
+- FAQ: https://qingyiwss.github.io/saudi-trade-site/faq.html | 50+ frequently asked questions about sourcing from Hebei for Saudi Arabia market
 
 ## Arabic Pages
-- Home (AR): https://www.hebeisteel.com/ar/index.html
-- Products (AR): https://www.hebeisteel.com/ar/products.html
-- FAQ (AR): https://www.hebeisteel.com/ar/faq.html
+- Home (AR): https://qingyiwss.github.io/saudi-trade-site/ar/index.html
+- Products (AR): https://qingyiwss.github.io/saudi-trade-site/ar/products.html
+- FAQ (AR): https://qingyiwss.github.io/saudi-trade-site/ar/faq.html
 
 ## Product Categories
 1. Steel Wire Mesh — Galvanized, PVC-coated, stainless steel. Made in Anping County (world's largest wire mesh cluster). For NEOM construction, fencing, concrete reinforcement. SABER certified. MOQ 500㎡.

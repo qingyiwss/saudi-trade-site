@@ -3,4 +3,4 @@ Allow: /
 
 Disallow: /assets/images/
 
-Sitemap: https://hebeisteel.com/sitemap.xml
+Sitemap: https://qingyiwss.github.io/saudi-trade-site/sitemap.xml
