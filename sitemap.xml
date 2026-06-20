@@ -34,6 +34,16 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://hebeisteel.com/ar/about.html"/>
   </url>
 
+  <!-- English FAQ -->
+  <url>
+    <loc>https://hebeisteel.com/faq.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hebeisteel.com/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://hebeisteel.com/ar/faq.html"/>
+  </url>
+
   <!-- English Contact -->
   <url>
     <loc>https://hebeisteel.com/contact.html</loc>
@@ -74,6 +84,16 @@
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ar" href="https://hebeisteel.com/ar/about.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hebeisteel.com/about.html"/>
+  </url>
+
+  <!-- Arabic FAQ -->
+  <url>
+    <loc>https://hebeisteel.com/ar/faq.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://hebeisteel.com/ar/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hebeisteel.com/faq.html"/>
   </url>
 
   <!-- Arabic Contact -->
